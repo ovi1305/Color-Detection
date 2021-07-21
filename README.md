@@ -1,3 +1,4 @@
-# Color-Detection
+# Color-Identification
 
-Color detection is the process of detecting the name of any color.
+Color Identification is the process of identifying the name of any color.
+
